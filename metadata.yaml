@@ -1,0 +1,115 @@
+_repo: Wuthering-Heights_768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brontë, Emily
+    aliases:
+    - Brontë, Emily Jane
+    - Bell, Ellis
+    - Bronte, Emily
+    birthdate: 1818
+    deathdate: 1848
+    gutenberg_agent_id: '405'
+    url: http://www.gutenberg.org/2009/agents/405
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Brontë
+description: "Wuthering Heights is Emily Brontë's only novel. Written between October\
+  \ 1845 and June 1846, Wuthering Heights was published in 1847 under the pseudonym\
+  \ \"Ellis Bell\"; Brontë died the following year, aged 30. Wuthering Heights and\
+  \ Anne Brontë's Agnes Grey were accepted by publisher Thomas Newby before the success\
+  \ of their sister Charlotte's novel, Jane Eyre. After Emily's death, Charlotte edited\
+  \ the manuscript of Wuthering Heights, and arranged for the edited version to be\
+  \ published as a posthumous second edition in 1850.\nAlthough Wuthering Heights\
+  \ is now widely regarded as a classic of English literature, contemporary reviews\
+  \ for the novel were deeply polarised; it was considered controversial because its\
+  \ depiction of mental and physical cruelty was unusually stark, and it challenged\
+  \ strict Victorian ideals of the day, including religious hypocrisy, morality, social\
+  \ classes and gender inequality. The English poet and painter Dante Gabriel Rossetti\
+  \ referred to it as \"A fiend of a book – an incredible monster ... The action is\
+  \ laid in hell, – only it seems places and people have English names there.\"\n\
+  In the second half of the 19th century, Charlotte Brontë's Jane Eyre was considered\
+  \ the best of the Brontë sisters' works, but following later re-evaluation, critics\
+  \ began to argue that Wuthering Heights was superior. The book has inspired adaptations,\
+  \ including film, radio and television dramatisations, a musical by Bernard J. Taylor,\
+  \ a ballet, operas (by Bernard Herrmann, Carlisle Floyd, and Frédéric Chaslin),\
+  \ a role-playing game, and a 1978 song by Kate Bush.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Gothic Fiction
+- Best Books Ever Listings
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '768'
+  wikidata: Q202975
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Rejection (Psychology) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Rural families -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Heathcliff (Fictitious character : Brontë) -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: Wuthering Heights
+url: http://www.gutenberg.org/ebooks/768
+wikipedia:
+- https://fi.wikipedia.org/wiki/Humiseva_harju
+- https://eo.wikipedia.org/wiki/Wuthering_Heights
+- https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A9%81%E0%A8%A6%E0%A8%B0%E0%A8%BF%E0%A9%B0%E0%A8%97_%E0%A8%B9%E0%A8%BE%E0%A8%88%E0%A8%9F%E0%A8%B8
+- https://fa.wikipedia.org/wiki/%D8%A8%D9%84%D9%86%D8%AF%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1
+- https://gan.wikipedia.org/wiki/%E5%92%86%E5%93%AE%E5%B1%B1%E8%8E%8A
+- https://en.wikisource.org/wiki/Wuthering_Heights
+- https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D5%AC%D5%A5%D5%A3%D5%AB%D5%B6_%D5%B0%D5%B8%D5%B2%D5%B4%D5%A5%D6%80%D5%AB_%D5%A4%D5%A1%D6%80%D5%A1%D5%BE%D5%A1%D5%B6%D5%A4
+- https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB
+- https://uk.wikiquote.org/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB
+- https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B5%CE%BC%CE%BF%CE%B4%CE%B1%CF%81%CE%BC%CE%AD%CE%BD%CE%B1_%CE%8E%CF%88%CE%B7
+- https://gl.wikipedia.org/wiki/Curutos_treboentos
+- https://fr.wikisource.org/wiki/Les_Hauts_de_Hurlevent
+- https://sv.wikipedia.org/wiki/Svindlande_h%C3%B6jder
+- https://ja.wikipedia.org/wiki/%E5%B5%90%E3%81%8C%E4%B8%98
+- https://nn.wikipedia.org/wiki/Stormfulle_h%C3%B8yder
+- https://arz.wikipedia.org/wiki/%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7%D8%AA_%D9%88%D9%8A%D8%B0%D8%B1%D9%86%D8%AC
+- https://es.wikipedia.org/wiki/Cumbres_Borrascosas
+- https://en.wikipedia.org/wiki/Wuthering_Heights
+- https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB
+- https://pl.wikiquote.org/wiki/Wichrowe_Wzg%C3%B3rza
+- https://ko.wikipedia.org/wiki/%ED%8F%AD%ED%92%8D%EC%9D%98_%EC%96%B8%EB%8D%95
+- https://tr.wikiquote.org/wiki/U%C4%9Fultulu_Tepeler
+- https://pt.wikipedia.org/wiki/Wuthering_Heights
+- https://et.wikipedia.org/wiki/Vihurim%C3%A4e
+- https://fr.wikipedia.org/wiki/Les_Hauts_de_Hurlevent
+- https://zh.wikipedia.org/wiki/%E5%92%86%E5%93%AE%E5%B1%B1%E8%8E%8A
+- https://ro.wikipedia.org/wiki/La_r%C4%83scruce_de_v%C3%A2nturi
+- https://bs.wikipedia.org/wiki/Orkanski_visovi
+- https://pl.wikipedia.org/wiki/Wichrowe_Wzg%C3%B3rza
+- https://hu.wikipedia.org/wiki/%C3%9Cv%C3%B6lt%C5%91_szelek
+- https://simple.wikipedia.org/wiki/Wuthering_Heights
+- https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93i_gi%C3%B3_h%C3%BA
+- https://ru.wikiquote.org/wiki/%D0%93%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB
+- https://zh-yue.wikipedia.org/wiki/%E5%92%86%E5%93%AE%E5%B1%B1%E8%8E%8A
+- https://af.wikipedia.org/wiki/Wuthering_Heights
+- https://mk.wikipedia.org/wiki/%D0%9E%D1%80%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%B2%D0%B8%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B8
+- https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7%D8%AA_%D9%88%D9%8A%D8%B0%D8%B1%D9%86%D8%BA
+- https://nl.wikipedia.org/wiki/Woeste_hoogten
+- https://id.wikipedia.org/wiki/Wuthering_Heights
+- https://sl.wikipedia.org/wiki/Viharni_vrh
+- https://cs.wikipedia.org/wiki/Na_V%C4%9Btrn%C3%A9_h%C5%AFrce
+- https://de.wikipedia.org/wiki/Sturmh%C3%B6he
+- https://lv.wikipedia.org/wiki/Kalnu_aukas
+- https://sr.wikipedia.org/wiki/Orkanski_visovi
+- https://bg.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BB%D0%B5%D0%BD%D0%B8_%D1%85%D1%8A%D0%BB%D0%BC%D0%BE%D0%B2%D0%B5
+- https://it.wikipedia.org/wiki/Cime_tempestose
+- https://vi.wikiquote.org/wiki/%C4%90%E1%BB%93i_gi%C3%B3_h%C3%BA
+- https://no.wikipedia.org/wiki/Stormfulle_h%C3%B8yder
+- https://ca.wikipedia.org/wiki/Cims_borrascosos
+- https://es.wikiquote.org/wiki/Cumbres_Borrascosas
+- https://tr.wikipedia.org/wiki/U%C4%9Fultulu_Tepeler
+- https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A7%D7%AA_%D7%92%D7%91%D7%94%D7%99%D7%9D
